@@ -155,7 +155,8 @@ color: #FFFFFF;
 ## Output:
 ![Screenshot from 2023-12-27 15-20-22](https://github.com/HARININAGAPPAN/event-registration/assets/147473910/b3862124-95c0-4a7c-a76a-f2702493f92b)
 ![Screenshot from 2023-12-27 15-21-12](https://github.com/HARININAGAPPAN/event-registration/assets/147473910/c57c84b3-3192-4cd3-99bb-9e144debaaf1)
-![image](https://github.com/HARININAGAPPAN/event-registration/assets/147473910/4b37a6fc-8f7a-4976-9868-2ebab60f3c7c)
+![Screenshot 2023-12-27 102144](https://github.com/HARININAGAPPAN/event-registration/assets/147473910/810036c4-1b9c-45c7-82c3-66ee0751ee6d)
+
 ## Result:
 The program to design, develope and deploy a web application for event registration is completed.
 
